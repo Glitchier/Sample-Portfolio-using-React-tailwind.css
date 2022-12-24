@@ -3,7 +3,7 @@ npm install -D tailwindcss postcss autoprefixer<br>
 npx tailwindcss init -p<br>
 <style>
   .img1{
-    padding : 5px;
+    padding : 50px;
   }
 </style>
 <img class="img1" src='https://raw.githubusercontent.com/Glitchier/Sample-Portfolio-using-React-tailwind.css/main/public/screenshot.png'>
